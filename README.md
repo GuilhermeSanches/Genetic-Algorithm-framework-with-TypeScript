@@ -9,8 +9,8 @@ npm run start
 ```
 
 ## How to test
-Ao executar o projeto dentro de "Test" ira obter o resultado do máximo da função seno de 
-um numero de 20 BITS com domínio de 0 à 2 * PÍ
+Running the project in "Test" will get the maximum result
+of the sine function of a number of 20-BIT with domain 0 to 2 * PÍ
 
 
 ##TODO
