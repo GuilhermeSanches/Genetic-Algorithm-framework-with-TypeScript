@@ -1,0 +1,4 @@
+./src/framework/AGFramework.ts	./src/test/AppTest.ts
+./src/framework/AGModel.ts	./src/test/SinXChromossome.ts
+./src/framework/Chromossome.ts	./src/test/SinXIndividual.ts
+./src/framework/Individual.ts	./src/test/SinXModel.ts
