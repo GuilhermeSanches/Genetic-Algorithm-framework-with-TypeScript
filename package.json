@@ -1,0 +1,11 @@
+{
+  "name": "agframework",
+  "version": "1.0.0",
+  "description": "Genetic Algorithm framework with typescript",
+  "main": "AppTest.js",
+  "scripts": {
+    "start": "tsc @ts-files.txt && node ./src/test/AppTest.js"
+  },
+  "author": "Guilherme Sanches",
+  "license": "MIT"
+}
