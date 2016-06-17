@@ -1,6 +1,10 @@
 # Genetic Algorithm framework with TypeScript
 Framework using TypeScript to resolve problems AG Binary or Permutation
 
+## Need to install NodeJs and NPM
+
+https://nodejs.org/en/download/
+
 ## How to run
 After the downloading or cloning the repository, use:
 ```bash
