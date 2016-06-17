@@ -1,12 +1,15 @@
 # Genetic Algorithm framework with TypeScript
 Framework using TypeScript to resolve problems AG Binary or Permutation
 
+based on https://github.com/univas/AG2016/
+
+
 ## Need to install NodeJs and NPM
 
 https://nodejs.org/en/download/
 
 ## How to run
-After the downloading or cloning the repository, use:
+After downloading or cloning the repository, use:
 ```bash
 npm install -g typescript
 npm run start
