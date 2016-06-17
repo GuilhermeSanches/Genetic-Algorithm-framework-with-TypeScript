@@ -7,7 +7,7 @@ Based on https://github.com/univas/AG2016/
 
 ## Dependencies
 
-** NodeJS and NPM
+* NodeJS and NPM
 
 https://nodejs.org/en/download/
 
