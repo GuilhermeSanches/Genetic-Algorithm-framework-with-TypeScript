@@ -25,6 +25,12 @@ Running the project in "Test" will get the maximum result
 
 of the sine function of a number of 20-BIT with domain 0 to 2 * PÍ
 
+## Contribute
+
+Any help on the project is more than welcomed.
+
+For any problem/question do not hesitate to open an issue.
+
 
 ##TODO
 
