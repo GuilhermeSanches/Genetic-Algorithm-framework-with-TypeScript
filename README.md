@@ -1,14 +1,18 @@
 # Genetic Algorithm framework with TypeScript
-Framework using TypeScript to resolve problems AG Binary or Permutation
 
-based on https://github.com/univas/AG2016/
+Framework using TypeScript language to resolve problems which need of genetic algorithm.
+
+Based on https://github.com/univas/AG2016/
 
 
-## Need to install NodeJs and NPM
+## Dependencies
+
+** NodeJS and NPM
 
 https://nodejs.org/en/download/
 
 ## How to run
+
 After downloading or cloning the repository, use:
 ```bash
 npm install -g typescript
@@ -16,12 +20,14 @@ npm run start
 ```
 
 ## How to test
+
 Running the project in "Test" will get the maximum result
 
 of the sine function of a number of 20-BIT with domain 0 to 2 * PÍ
 
 
 ##TODO
+
 * Comparison function is set in the framework and should be out.
 
 * Input interface values
@@ -31,6 +37,7 @@ of the sine function of a number of 20-BIT with domain 0 to 2 * PÍ
 * Implements enum to model ('binary', 'permutation')
 
 ## Copyright and License
+
 Copyright 2016 Guilherme Sanches
 
 This software is released under the MIT license.
