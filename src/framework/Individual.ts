@@ -1,7 +1,6 @@
-import {Comparable} from './lib/Comparable';
 import {Chromossome} from './Chromossome';
 
-export abstract class Individual implements Comparable {
+export abstract class Individual{
     
  
 
