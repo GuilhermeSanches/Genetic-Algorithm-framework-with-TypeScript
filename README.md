@@ -1,6 +1,6 @@
-# Genetic Algorithm framework with TypeScript
+# What is HollandTS ?
 
-Framework using TypeScript language to resolve problems which need of genetic algorithm.
+HollandTS is a Framework developed in TypeScript to help solving genetic algorithm problems.
 
 Based on https://github.com/univas/AG2016/
 
